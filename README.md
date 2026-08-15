@@ -1,4 +1,4 @@
-HI I am Rohan
+Hi! 👋 I’m Rohan! 🚀✨
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-ghosh-3079b732b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamrohanghosh23@gmail.com) 
 
