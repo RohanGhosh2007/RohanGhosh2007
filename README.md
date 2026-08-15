@@ -1,4 +1,17 @@
-Hi! 👋 I’m Rohan! 🚀✨
+Hi there! 👋 I’m Rohan 🚀
+
+🎓 I’m a 1st-year CSE Engineering student at Sister Nivedita University
+
+🔭 I’m currently working on — Improving my programming and development skills
+
+🤝 I’m looking to collaborate on — Beginner-friendly projects and innovative tech ideas
+
+🌱 I’m currently learning — C, Java, Python & Web Development
+
+💬 Ask me about — Programming, Technology, Chess & New Ideas ♟️
+
+⚡ Fun fact — I love exploring new technologies and learning something new every day! 🚀
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-ghosh-3079b732b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamrohanghosh23@gmail.com) 
 
