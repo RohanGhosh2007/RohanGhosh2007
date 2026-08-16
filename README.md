@@ -10,7 +10,9 @@ Hi there! 👋 I’m Rohan 🚀
 
 💬 Ask me about — Programming, Technology, Chess & New Ideas ♟️
 
-⚡ Fun fact — I love exploring new technologies and learning something new every day! 🚀
+🎤 Hobbies — Singing 🎶, Playing Harmonium 🎹, Cooking 👨‍🍳 & Travelling ✈️
+
+⚡ Fun fact — My brain has 100 tabs open, and I don’t know which one is playing music! 🧠😂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-ghosh-3079b732b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamrohanghosh23@gmail.com) 
